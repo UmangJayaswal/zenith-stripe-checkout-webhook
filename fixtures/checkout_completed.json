@@ -1,0 +1,15 @@
+{
+  "id": "evt_skillnexa_001",
+  "object": "event",
+  "type": "checkout.session.completed",
+  "livemode": false,
+  "data": {
+    "object": {
+      "id": "cs_test_skillnexa_001",
+      "object": "checkout.session",
+      "payment_status": "paid",
+      "amount_total": 259900,
+      "currency": "inr"
+    }
+  }
+}

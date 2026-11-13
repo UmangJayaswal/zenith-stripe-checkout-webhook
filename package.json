@@ -1,0 +1,16 @@
+{
+  "name": "input_files",
+  "version": "1.0.0",
+  "description": "Job ID 0bamD7kYbtBsGd27yN2q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "stripe": "^23.1.0"
+  }
+}
